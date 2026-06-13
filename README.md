@@ -13,3 +13,11 @@ Interactive Hotel Management Dashboard built using Microsoft Excel to analyze re
 - Cancellation Rate
 - Total Bookings
 - Average Daily Rate (ADR)
+## Tools & Techniques
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- Dashboard Design
