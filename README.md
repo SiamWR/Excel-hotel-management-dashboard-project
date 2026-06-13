@@ -6,7 +6,7 @@ Interactive Hotel Management Dashboard built using Microsoft Excel to analyze re
 - Evaluate booking channels
 - Assess lead time impact
 - Track yearly booking performance
-- ## Key Metrics
+## Key Metrics
 
 - Total Revenue
 - Revenue Loss
